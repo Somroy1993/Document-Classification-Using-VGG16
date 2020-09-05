@@ -73,13 +73,13 @@ _________________________________________________________________
 The plots below show the training history, classification results and confusion matrix for test data.
 
 ###### Plot of Training History
-![Train history plot](/images/Train_history_plot.png "Plot of Training History")
+![Train](/images/Train_history_plot.png "Plot of Training History")
 
 ###### Classification Results on Test Data
-![Train history plot](/images/Classification Report.png "Classification Results on Test Data")
+![Train](/images/Classification Report.png "Plot of Classification Results on Test Data")
 
 ###### Confusion Matrix for Test Data
-![Train history plot](/images/Confusion_Matrix.png "Confusion Matrix for Test Data")
+![plot](/images/Confusion_Matrix.png "Confusion Matrix for Test Data")
 
 ## Future Improvements:
 * The difference in train and validation accuracy clearly denotes there is an overfitting during training. To improve one can use more data or data augmentation. According to the problem statement one can try random cropping to generate more data.
