@@ -75,8 +75,14 @@ The plots below show the training history, classification results and confusion 
 ###### Plot of Training History
 ![Train](/images/Train_history_plot.png "Plot of Training History")
 
+
+
+
 ###### Classification Results on Test Data
 ![history](/images/Classificationreport.png "Plot of Classification Results on Test Data")
+
+
+
 
 ###### Confusion Matrix for Test Data
 ![plot](/images/Confusion_Matrix.png  "Confusion Matrix for Test Data")
