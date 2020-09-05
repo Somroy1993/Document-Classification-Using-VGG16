@@ -10,7 +10,7 @@ import random
 import cv2
 
 
-SIZE=224 #224 recomended
+SIZE=112 #224 recomended
 rootdir='frame-dataset' #directory to your database, the directory contains 4 folders labelled as 4 classes (Handwritten, Codewalk, Misc, Slides)
 test_img_per_class=240 # represents no of test sample u want to keep per class
 
